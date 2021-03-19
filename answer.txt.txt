@@ -1,0 +1,1 @@
+Hola, buenas tardes, este es un texto de  prueba para el laboratorio 0 de Programacion Orientada a Objetos
